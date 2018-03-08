@@ -1,0 +1,18 @@
+private async Task<DataView> AccessOracleAsync()
+{
+        DataTable dt = new DataTable();
+        using (OracleConnection conn = new OracleConnection(ConfigurationManager.ConnectionStrings["connStr"].ConnectionString))
+        using (OracleCommand cmd = new OracleCommand(@"SELECT * myTbl", conn))
+        {
+            await Task.Run(() =>
+                {
+                    conn.Open();
+                    using (DbDataReader reader = cmd.ExecuteReader())
+                    {
+                        dt.Load(reader);
+                    }
+                }).ConfigureAwait(false);
+
+        }
+        return dt.AsDataView();
+}
