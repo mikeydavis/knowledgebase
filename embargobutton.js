@@ -29,3 +29,6 @@ var embargoButton = $('#apply-embargo').kendoButton({
                     }
                 }
             }).data('kendoButton');
+
+
+https://code.msdn.microsoft.com/How-to-post-complex-JSON-d15bb765
