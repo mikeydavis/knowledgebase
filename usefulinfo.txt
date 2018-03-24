@@ -1,1 +1,8 @@
+kendo ui validate dates
+https://docs.telerik.com/kendo-ui/controls/editors/datetimepicker/how-to/custom-date-validation
+
+confirm submit
+https://demos.telerik.com/kendo-ui/dialog/predefined-dialogs
+
+iis host
 https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?tabs=aspnetcore1x
