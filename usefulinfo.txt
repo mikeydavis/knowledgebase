@@ -4,5 +4,11 @@ https://docs.telerik.com/kendo-ui/controls/editors/datetimepicker/how-to/custom-
 confirm submit
 https://demos.telerik.com/kendo-ui/dialog/predefined-dialogs
 
+
+Git hub remote
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+
+
 iis host
 https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?tabs=aspnetcore1x
