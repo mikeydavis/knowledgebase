@@ -9,6 +9,10 @@ Git hub remote
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 
 
+ajax secure
+https://stackoverflow.com/questions/37608965/how-to-call-asp-net-web-api-base-on-ajax-with-get-post-and-token-key
+
+
 
 iis host
 https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?tabs=aspnetcore1x
