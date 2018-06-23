@@ -12,7 +12,27 @@ https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.ht
 ajax secure
 https://stackoverflow.com/questions/37608965/how-to-call-asp-net-web-api-base-on-ajax-with-get-post-and-token-key
 
-
-
 iis host
 https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?tabs=aspnetcore1x
+
+serialise object
+https://stackoverflow.com/questions/30614292/serialize-data-from-database-in-json-format
+
+using (var conn = new SqlConnection(ConnectionString))
+        {
+            conn.Open();
+            using (var comm = new SqlCommand(command, conn))
+            {
+                using (var reader = comm.ExecuteReader())
+                {
+                       Customers= reader.Cast<IDataRecord>().Select(x=>
+                        new Customer
+                        {
+                            ID = (int)x["ID"],
+                            name = x["name"].ToString(),
+
+                        }).ToList();
+                }
+            }
+        }
+var json = JsonConvert.SerializeObject(Customers);
