@@ -4,6 +4,8 @@ https://docs.telerik.com/kendo-ui/controls/editors/datetimepicker/how-to/custom-
 confirm submit
 https://demos.telerik.com/kendo-ui/dialog/predefined-dialogs
 
+https://www.elastic.co/guide/en/elasticsearch/reference/current/windows.html
+
 Async
 https://www.dotnetperls.com/async
 
