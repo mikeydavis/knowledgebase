@@ -4,7 +4,12 @@ https://docs.telerik.com/kendo-ui/controls/editors/datetimepicker/how-to/custom-
 confirm submit
 https://demos.telerik.com/kendo-ui/dialog/predefined-dialogs
 
+Elastic install
 https://www.elastic.co/guide/en/elasticsearch/reference/current/windows.html
+
+Elastic c#
+http://hintdesk.com/2016/09/02/elasticsearch-nest-examples-for-mapping-between-query-and-c/
+
 
 Async
 https://www.dotnetperls.com/async
