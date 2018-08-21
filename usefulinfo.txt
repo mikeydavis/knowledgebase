@@ -16,6 +16,8 @@ https://www.c-sharpcorner.com/article/async-and-await-in-c-sharp/
 Async
 https://www.dotnetperls.com/async
 
+https://www.newtonsoft.com/json/help/html/T_Newtonsoft_Json_DefaultValueHandling.htm
+
 
 Git hub remote
 https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
