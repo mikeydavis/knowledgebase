@@ -1,3 +1,6 @@
+REST API with Sequelize and Express.js
+https://medium.com/infocentric/setup-a-rest-api-with-sequelize-and-express-js-fae06d08c0a7
+
 kendo ui validate dates
 https://docs.telerik.com/kendo-ui/controls/editors/datetimepicker/how-to/custom-date-validation
 
